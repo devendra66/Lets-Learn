@@ -1,4 +1,4 @@
-# StudyNotion   [```live```](https://studynotion-abhikant.vercel.app/)
+# StudyNotion   [```live```](https://letslearn-frontend.vercel.app/)
 
 StudyNotion is a fully functional ed-tech learning platform that enables users to create, consume, and rate educational content. The platform is built using the ```MERN stack``` , which includes ```ReactJS```,``` NodeJS```, ```MongoDB```, and ```ExpressJS```.
 
